@@ -24,7 +24,7 @@ body {
 
 @media(max-width:480px) {
   .twoheadings {
-   font-size:45px;
+   font-size:40px;
     font-family:Times New Roman, Times, serif;
     font-weight:bold;
     color:black;
@@ -33,13 +33,13 @@ body {
   .twoparagraphs {
    color:black;
     font-family:Arial, sans-serif;
-    font-size:18px;
+    font-size:16px;
   }
 }
 
 @media(min-width:480px) and (max-width:1100px){
   .twoheadings {
-   font-size:40px;
+   font-size:45px;
     font-family:Times New Roman, Times, serif;
     font-weight:bold;
     color:black;
@@ -54,7 +54,7 @@ body {
 
 @media(min-width:1100px) {
   .twoheadings {
-   font-size:35px;
+   font-size:50px;
     font-family:Times New Roman, Times, serif;
     font-weight:bold;
     color:black;
@@ -63,6 +63,6 @@ body {
   .twoparagraphs {
    color:black;
     font-family:Arial, sans-serif;
-    font-size:16px;
+    font-size:18px;
   }
 }
